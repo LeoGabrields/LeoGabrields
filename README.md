@@ -1,17 +1,10 @@
 ## Leandro Gabriel
 
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=LeoGabrields&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=LeoGabrields&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=LeoGabrields&show_icons=true" />
-</picture>
----
+<div align="left"> 
+<a href="https://github.com/LeoGabrields/github-readme-stats#gh-dark-mode-only">
+<img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=LeoGabrields&show_icons=true&count_private=true&line_height=28&hide_border=true&card_width=450&include_all_commits=true&include_orgs=true&exclude_repo=github-readme-stats&theme=dark&bg_color=000000#gh-dark-mode-only" alt="LeoGabrields Github stats" />
+</a>
+</div>
 
 ### Sobre mim
 
