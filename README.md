@@ -6,7 +6,6 @@
 </a>
 </div>
 
-
 ### Sobre mim
 
 - Meu nome é Leandro, sou apaixonado por tecnologia.
