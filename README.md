@@ -8,9 +8,9 @@
 
 ####  Sobre mim
 
-- Meu nome é Leandro, sou apaixonado por tecnologia.
-- Estudando Dart/Flutter.
-- Estou em busca do meu primeiro emprego na área de progamação mobile.
+* Meu nome é Leandro, sou apaixonado por tecnologia.
+* Estudando Dart/Flutter.
+* Estou em busca do meu primeiro emprego na área de progamação mobile.
 
 #### Trabalho com as ferramentas abaixo:
 <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" /> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /> <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" /> 
